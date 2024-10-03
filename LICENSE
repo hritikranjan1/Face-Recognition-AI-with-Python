@@ -1,0 +1,6 @@
+
+### 3. **`requirements.txt`**
+This file lists all the dependencies your project needs to run. You can generate it automatically by running this command:
+
+```bash
+pip freeze > requirements.txt
