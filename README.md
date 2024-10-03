@@ -19,3 +19,23 @@ This project is a simple face recognition system built using Python, OpenCV, and
    ```bash
    git clone https://github.com/hritikranjan1/Face-Recognition-AI.git
    cd Face-Recognition-AI
+Install required dependencies:
+
+bash
+
+pip install -r requirements.txt
+
+Place images of the people you want to recognize in the images/ folder.
+
+Run the project:
+
+bash
+
+    python main.py
+
+Dependencies
+
+    opencv-python: for handling image processing.
+    numpy: for handling matrix operations.
+    face_recognition: for recognizing faces.
+    pyttsx3: for text-to-speech functionality.
